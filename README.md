@@ -12,3 +12,22 @@ prediction, etc.
 The problem is, that there is a small number of posts with  
 hashtags made by the authors. Thus and automated hashtag  
 recomendation became an interesting area for research.  
+
+### Prerequarements ###
+
+* Sklearn, Scipy, Pandas
+* Numpy, Matplotlib
+* Jupyter notebook  
+* TensorFlow >= 0.10, GPU supported
+
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* a.dobrenkiy@innopolis.ru
+* a.bekirov@innopolis.ru
